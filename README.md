@@ -1,5 +1,8 @@
 # Writeups
 This is where i write down my write up
+
+<!-- underscore ruler is thicker -->
+<!-- than hyphen ruler -->
  ___
  ---
 
@@ -32,7 +35,7 @@ __also bold__
 ~~strikethrough~~
 
 <!-- backslash to escape -->
-tilde\~\~tilde\~\~
+backslash\~\~to escape\~\~
 
 ---
 
@@ -74,7 +77,6 @@ even tho you type it in a newline
 
 `use bacticks for <p> code </p> can go
 multiline like this`
-`or like this`
 
 `but also can be separated`
 
@@ -112,6 +114,9 @@ kevin |kevins@email.here| idk
 someone | someone@gmail.com | smthing
 whitespace | doesnt matter | here
 although|its|nice
+[links](http://google.com)|work|too
+
+---
 
 <!-- task list -->
 * [x] this task is complete
